@@ -2,7 +2,7 @@
 # Introduction to Scikit-Learn
 
 <p align="center">
-  <img width="470" src="1200px-Scikit_learn_logo_small.svg.png">
+  <img width="470" src="img/1200px-Scikit_learn_logo_small.svg.png">
  </p>
 
 Scikit-learn é uma biblioteca de aprendizado de máquina em Python que fornece uma ampla gama de algoritmos e ferramentas para análise de dados e modelagem preditiva. Ele é construído sobre outras bibliotecas populares, como NumPy, SciPy e Matplotlib, e é amplamente utilizado na comunidade de ciência de dados.
